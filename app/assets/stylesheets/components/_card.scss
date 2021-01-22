@@ -1,0 +1,53 @@
+  .card-for-entries {
+  margin: 0 auto;
+  background-color:white;
+  border-radius:15px;
+  height:550px;
+  width:400px;
+  border-bottom: 5px solid #E5E5E5;
+  border-right:  5px solid #E5E5E5;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.2);
+
+}
+
+.card-for-entries img {
+  width:63px;
+  height:224px;
+}
+
+.card-for-entries-inner {
+display: flex;
+justify-content: space-between;
+margin-right:20px;
+align-items: center;
+padding:11px 0px;
+}
+
+.card-for-entries-button {
+  margin:0px 20px;
+}
+
+.card-for-milestones {
+  background-color: white;
+  border-radius: 15px;
+  width:400px;
+  height:600px;
+  border-bottom: 5px solid #E5E5E5;
+  border-right:  5px solid #E5E5E5;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.2);
+  margin: 0 auto;
+}
+
+
+.card-for-milestones img {
+  width:63px;
+  height:224px;
+}
+
+.card-for-milestones-inner {
+  margin-left:20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding:11px 0px;
+}
